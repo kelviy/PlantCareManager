@@ -1,0 +1,26 @@
+system engine;;Networked;;ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris;;false;;2023-01-07
+multi-state;;throughput;;habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam;;true;;2022-04-30
+focus group;;open system;;sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus;;true;;2022-09-28
+framework;;Horizontal;;viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam;;true;;2022-03-15
+non-volatile;;productivity;;orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis;;true;;2022-10-19
+Distributed;;User-centric;;ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus;;false;;2022-04-13
+algorithm;;model;;magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes;;true;;2022-11-19
+Implemented;;groupware;;suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper;;true;;2022-11-10
+benchmark;;multimedia;;fusce consequat nulla nisl nunc nisl duis bibendum felis sed;;false;;2021-12-01
+didactic;;neural-net;;duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat;;true;;2022-08-04
+product;;6th generation;;in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna;;false;;2022-04-20
+even-keeled;;Total;;nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu;;true;;2022-09-28
+analyzer;;Upgradable;;vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus;;true;;2022-11-08
+Multi-channelled;;knowledge base;;congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui;;false;;2022-02-16
+Focused;;Progressive;;sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim;;true;;2021-09-15
+initiative;;benchmark;;posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc;;false;;2021-12-11
+knowledge user;;contingency;;lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id;;false;;2022-10-21
+methodical;;neutral;;ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla;;false;;2022-05-17
+interactive;;Pre-emptive;;curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae;;false;;2022-12-16
+migration;;coherent;;vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis;;true;;2022-12-21
+Balanced;;service-desk;;tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est;;false;;2022-06-15
+contextually-based;;website;;volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo;;false;;2022-09-20
+Optional;;multi-tasking;;leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum;;true;;2022-09-15
+4th generation;;Synergistic;;nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a;;true;;2022-06-07
+needs-based;;intermediate;;semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus;;true;;2022-09-10
+Continue with mark-up;;intermediate;;Fabrication is great;;true;;2022-09-10

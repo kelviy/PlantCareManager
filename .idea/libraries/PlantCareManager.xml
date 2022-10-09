@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="PlantCareManager">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LGoodDatePicker-11.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/itextpdf-5.5.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flatlaf-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
