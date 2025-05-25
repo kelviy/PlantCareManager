@@ -40,7 +40,8 @@ Additional information in pdf documents are available in the `documentation` fol
 - **IntelliJ IDEA** (recommended) or any IDE / build tool that supports Swing forms  
 - **Dependencies** (add to your classpath or project library):  
   - [FlatLaf 1.2+](https://www.formdev.com/flatlaf/)  
-  - [iText 5.x](https://github.com/itext/itextpdf)  
+  - [iText 5.x](https://github.com/itext/itextpdf)
+  - LGoodDatePicker-11.2.1
 
 ---
 
