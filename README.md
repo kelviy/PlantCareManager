@@ -61,7 +61,7 @@ Additional information in pdf documents are available in the `documentation` fol
 - Home Page
 Switch between Plants, Tasks, and Notes tabs.
 - Add / Edit / Delete
-Click “+” or “✎” icons to add or edit entries.
+Click on respective icons to add, edit or delete entries.
 - Labeling & Filtering
 Select labels/filters from respective drop down menus.
 - Tasks Due Soon
